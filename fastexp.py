@@ -1,5 +1,5 @@
 #program for fast exponentiation in python
-
+#This uses the 2^k-ary binary method for finding the exponent of a number in Olog(n) time.
 
 def multiply(num, exp):
     prod = 1
