@@ -1,5 +1,5 @@
 # Program to find the Nth Fibonacci number.
-# Example: If n=6 then the fibonacci number is 5.
+# Example: If n=5 then the fibonacci number is 5.
 # This program is done using loops, recursive solution seems needlessly complicated.
 
 
